@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About
 Website where products can be purchased and sold via live auctions. \
 Sellers can upload product image along with information and setup an auction (duration, starting price). \
@@ -57,3 +58,6 @@ Hosting:
 # Notes on using the website
 Project is hosted <a href="https://live-auctions.netlify.app/"><strong>here</strong></a>
 - If you do not want to register, press the skip button during login. This will log you in as a test user (test@test.com).
+=======
+# Craft-and-stitch-client
+>>>>>>> 50d069ac5534050f3d528523a4716c7a828ffd97
